@@ -4,8 +4,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import CodeSignal.FirstDup;
-
 class FirstDupTest {
 	FirstDup dup = new FirstDup();
 	@Test
